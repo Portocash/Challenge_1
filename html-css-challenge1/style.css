@@ -1,0 +1,117 @@
+body {
+  text-align: left;
+  background-color: rgb(238,242,247);
+}
+
+.profile-pict {
+  border: 2px solid rgb(159,122,235);
+  border-radius: 100%;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  width: 25px;
+  height: 25px;
+
+}
+
+.common-text {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 13px;
+  color: white;
+  display: block;
+  width: 100px;
+  position: absolute;
+  top: 26px;
+  left: 65px;
+  margin: 0;
+}
+
+.inverted-commas {
+  position: absolute;
+  top: -12px;
+  right: 70px;
+  width: 100px;
+  height: 100px;
+}
+
+.verified-graduate {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 11px;
+  color: white;
+  opacity: 0.7;
+  position: absolute;
+  top: 42px;
+  left: 65px;
+  margin: 0;
+}
+
+.text {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  color: white;
+  padding: 0 25px 0 25px;
+  position: absolute;
+  top: 72px;
+  margin: 0;
+}
+
+.lighter-text {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 13px;
+  color: white;
+  opacity: 0.7;
+  display: inline-block;
+  padding: 0 25px 0 25px;
+  margin: 0;
+  position: absolute;
+  top: 150px;
+}
+
+.Daniel {
+  background-color: rgb(107,71,193);
+  border-radius: 10px;
+  position: absolute;
+  left: 11%;
+  top: 16.6%;
+  width: 33%;
+  height: 33%;
+}
+
+.Jonathan {
+  background-color: rgb(75,85,105);
+  border-radius: 10px;
+  position: absolute;
+  left: 46%;
+  top: 16.6%;
+  width: 20%;
+  height: 33%;
+}
+
+.Kira {
+  background-color: white;
+  border-radius: 10px;
+  position: absolute;
+  left: 68%;
+  top: 16.6%;
+  width: 20%;
+  height: 65%;
+}
+
+.Jeanette {
+  background-color: white;
+  border-radius: 10px;
+  position: absolute;
+  left: 11%;
+  bottom: 18.4%;
+  width: 20%;
+  height: 30%;
+}
+
+.Patrick {
+  background-color: black;
+  border-radius: 10px;
+  position: absolute;
+  right: 34%;
+  bottom: 18.4%;
+  width: 33%;
+  height: 30%;
+}
